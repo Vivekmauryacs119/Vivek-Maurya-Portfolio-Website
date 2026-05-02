@@ -1,6 +1,11 @@
 # Portfolio-Website
 This is a personal portfolio website designed and developed to showcase my skills, projects, and experience as a Data Analyst &amp; Software Developer.  The website highlights my work in data analytics, data engineering, and business intelligence, along with my technical expertise and professional journey.
 
+# Screenshot
+<img width="2811" height="1475" alt="Screenshot 2026-05-02 235751" src="https://github.com/user-attachments/assets/f82f3653-3b0c-4219-b453-b9cc127b7ada" />
+
+
+
 # Features
 🎯 Modern and responsive UI design
 
